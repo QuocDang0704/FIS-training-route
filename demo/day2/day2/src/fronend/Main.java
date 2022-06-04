@@ -1,7 +1,7 @@
 public class Main {
     public static void main(String[] args) {
-        Foo foo = new Foo("abc", "abc");
-        //Foo foo1 = foo.clone();
+        Foo f1 = new Foo("abc", "abc");
+        Foo foo1 = f1.clone();
 
 
     }
